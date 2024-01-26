@@ -1,0 +1,2 @@
+# hahaMan
+record some examples
